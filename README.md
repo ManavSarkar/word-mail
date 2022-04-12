@@ -1,16 +1,13 @@
-# word_mail
+# Word Mail
+Welcome to this project. This project aims to provide an online dictionary so that you don't need to carry a dictionary with you all the time. You can also install this web application as this is PWA.
+Here is the website link - [https://word-van.netlify.app/](https://word-van.netlify.app/)
+Now you may want to contribute to this awesome project, so here are the steps:
 
-A new Flutter project.
+ 1. Fork the project and then clone it. The URL should appear as https://github.com/YOUR_USER_NAME/word-mail
+ 2. Next do the changes you want.
+ 3. After that, create a pull request and wait for the response. 
+Thank You.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshots
+![Welcome Page](https://i.pinimg.com/564x/c4/81/61/c48161b4d44a0be29c8aa0be4e270c9f.jpg)
+![enter image description here](https://i.pinimg.com/originals/20/f8/cd/20f8cd0cc33b3f0883dc1d0ed64262cf.jpg)
